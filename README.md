@@ -1,11 +1,11 @@
 # The Handbook for Becoming a Planetary Scientist
 ### A Crowdsourced Resource for Students and Early Career Scientists
 
-#### About the handbook
+#### About the [handbook](handbook.md)
 This is an open-source, crowdsourced document (not software, but perhaps even more useful). Much like a Wikipedia article, this is a living document (very much still in progress), so if you have anything to add, please consider contributing!
 
 #### How-to
-- If you're just here to learn, feel free to jump on over to the handbook.
+- If you're just here to learn, feel free to jump straight over to the [handbook itself](handbook.md).
 - If you're considering being a contributor, check out our [contribution guidelines](CONTRIBUTING.md), and our [Code of Conduct](CODE_OF_CONDUCT.md)
 - If you'd like to cite or re-use parts of this handbook, please review the [license](LICENSE).
 
