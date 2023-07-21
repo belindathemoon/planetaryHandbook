@@ -145,6 +145,18 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
 
 ### Postdoc fellowships
 
+Post-doc fellowships are generally (but not always) required in order to secure a faculty position, and often helpful for getting into a competitive position in NASA or similar institutions. That said, it's not the end of the world if you don't get a post-doc. There are still many jobs within research institutions that are open to you. One example is the Space Telescope Science Institute.
+
+If it's really important to you to get a post-doc, there are some things you can do while in graduate school to make yourself more competitive:
+
+- While you're working on your schoolwork, and later your research, make sure to gain hands-on experience with useful software and other transferable skills, such as Python, data acquisition systems, hardware design programs (like autoCAD or similar). 
+- Make sure you have demonstrated soft skills: project management, resourcefulness, people management, mentorship
+- Get experience supervising other students, such as undergraduate mentorship leadership and supervising junior graduate students.
+- Show that you are self-sufficient and can lead a project.
+- Individual post-doc programs look for different things, so start looking at potential programs of interest before your last year, in case you need to gain additional skills or experience before applying
+- Networking is important. Present your work often; make sure people know your name.
+- If it's relevant, you can take a summer off from your PhD to do an internship in industry or at an institution of interest.
+
 ### Funding & Proposals
 [Idea-to-proposal transformer](https://t.co/HQdM5ksBUK) created by [Dr. Divya M. Persaud](https://divyampersaud.com/)
 
