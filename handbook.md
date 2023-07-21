@@ -86,17 +86,20 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
 
 #### How to choose a program
 
-- Do the grad students seem happy? If they were applying to grad school now, would they choose the same program? (email them to ask them, or find out during a campus visit)
-- How much do the grad students get paid? Can people live on that amount at that location? What’s the health insurance like? If you have medical issues, what’s the local medical situation like (will you have to travel to see specialists, etc.)?
+- Do the grad students seem happy? Do they have a healthy work-life balance? If they were applying to grad school now, would they choose the same program? (email them to ask them, or find out during a campus visit)
+- How much do the grad students get paid? Can people live on that amount at that location? (The rule of thumb is that no more than 30% of your paycheck should to housing costs; if it does then this is called being "rent-burdened" or "cost-burdened". Unfortunately, this is very common for graduate students.)
+- What’s the health insurance like? If you have medical issues, what’s the local medical situation like (will you have to travel to see specialists, etc.)?
 - If this matters to you: is this a state that doesn’t allow universities to ban guns on campus? If you’re going to be a TA, are you comfortable with that?
 - Is the project something you are excited about? Enough to do it for a few years? Will you have freedom to follow your own scientific questions? Will you work with a team or individually? 
-- Make sure that there are at least two people in the department who would be good advisors for you. Things can go wrong: you might not get along with your first choice advisor, they might not be taking students, they could move, they could die (hard to think about but it does happen), etc.
-- Also consider location (is it somewhere you will enjoy living for 5+ years?)
+- Make sure that there are at least two people in the department who would be good advisors for you. Three are better. Things can go wrong: you might not get along with your first choice advisor, they might not be taking students, they could move, they could die (hard to think about but it does happen), etc.
+- Make sure there are also multiple projects that you are interested in working on (for similar reasons).
+- Do the faculty have time for their students? If they are unavailable during visiting week, or you're unable to get time to talk to them before you have to make a decision, this is generally a bad sign. 
+- Consider location, i.e., is it somewhere you will enjoy living for 5+ years? This is more important than you may think!
 - Planetary programs vary widely, from geology-based to astronomy-based. Does the program suit your background and what you want to learn? What are the requirements? 
 - Are you required to teach? Is financial support guaranteed? If so, is it based on teaching or research? 
 - If this matters to you: are the graduate students unionized? Are the faculty unionized? How good are the health benefits?
 - How diverse is the student population? How diverse is the faculty population? Will you feel comfortable and supported? (You may have to talk to current students to find out)
-- Is the program well-known? 
+- What do the graduate students go on to do after they graduate (especially your prospective advisor's students)? Ask the faculty what their graduated students are doing now. Speak to graduates of the program. Does this align with your career goals? 
 
 ##### How to find an advisor
 
@@ -113,10 +116,14 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
 - Do they have funding? Will they be able to support you as a student?
 - Ask about previous students, where have they gone, what are they doing now
 - Ask about communication style and expectations for how much time you’ll get with them, and how much time they expect you to work (work-life balance is important)
+- Do they have time for you? (See above in How to Choose a Program)
 - Do they expect you to teach? Will they allow you to teach? Do the answers to these questions fit into your career hopes/plans?
 - What is their group like? Will you be working on your own, or with others? Do you think you’d like working with those people?
 - Will you work on your own project or a subset of their work?
 - Speak to their current and former students
+- Are you comfortable talking with them? It's important that you get along with (and like) your advisor. You will need them to be writing (good) letters for you for many years even after you graduate.
+- Ask what kinds of skills their students learn that might generalize (this can be helpful for securing post-doc positions or other employment post-graduation).
+- Also know that it is ok and normal to switch advisors while in grad school. If you are in an unhelpful or toxic environment, it is better to switch to another advisor, even if the research isn't exactly what you want to do. It is unlikely that this will impact the time it takes you to complete the PhD (it might even make the time shorter!).
 
 ### Post-bacc programs
 
@@ -138,6 +145,18 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
 ## After Grad School…
 
 ### Postdoc fellowships
+
+Post-doc fellowships are generally (but not always) required in order to be considered for a faculty position, and often helpful for getting into a competitive position in NASA or similar institutions. That said, it's not the end of the world if you don't get a post-doc. There are still many jobs within research institutions that are open to you. One example is the Space Telescope Science Institute.
+
+If it's really important to you to get a post-doc, there are some things you can do while in graduate school to make yourself more competitive:
+
+- While you're working on your schoolwork, and later your research, make sure to gain hands-on experience with useful software and other transferable skills, such as Python, data acquisition systems, hardware design programs (like autoCAD or similar). 
+- Make sure you have demonstrated soft skills: project management, resourcefulness, people management, mentorship
+- Get experience supervising other students, such as undergraduate mentorship leadership and supervising junior graduate students.
+- Show that you are self-sufficient and can lead a project.
+- Individual post-doc programs look for different things, so start looking at potential programs of interest before your last year, in case you need to gain additional skills or experience before applying
+- Networking is important. Present your work often; make sure people know your name.
+- If it's relevant, you can take a summer off from your PhD to do an internship in industry or at an institution of interest.
 
 ### Funding & Proposals
 [Idea-to-proposal transformer](https://t.co/HQdM5ksBUK) created by [Dr. Divya M. Persaud](https://divyampersaud.com/)
