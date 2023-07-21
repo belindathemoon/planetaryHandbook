@@ -11,7 +11,7 @@
 
 - If you'd like to add to this handbook but don't have experience with git or github, this is a great way to practice! Here are some resources:
   - [How to make your first pull request on Github](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
-  - Codeastro [Mechanics of Git and Gitflow lessons](https://github.com/semaphoreP/codeastro/tree/main/Day2) (scroll down to the useful links and view the slides).
+  - Codeastro [Intro to Git](https://github.com/semaphoreP/codeastro/tree/main/Day1/git_intro), and [Gitflow](https://github.com/semaphoreP/codeastro/blob/main/Day1/gitflow.pptx) (click view raw to download the slides).
 - When committing changes, please make a comment about which heading(s) you worked on, and if you edited existing text or added new text.
 - Please review the license before submitting a pull request. Anything added to this project can be reused, but must be cited and licensed under a compatible license.
 - If your changes are merged (i.e., published), you'll be added to the list of contributors (i.e., authors). If you wish instead to remain anonymous, please send me a message (@belindathemoon) with your suggested changes, and I can add them for you.
