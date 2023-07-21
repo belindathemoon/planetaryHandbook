@@ -146,7 +146,7 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
 
 ### Postdoc fellowships
 
-Post-doc fellowships are generally (but not always) required in order to secure a faculty position, and often helpful for getting into a competitive position in NASA or similar institutions. That said, it's not the end of the world if you don't get a post-doc. There are still many jobs within research institutions that are open to you. One example is the Space Telescope Science Institute.
+Post-doc fellowships are generally (but not always) required in order to be considered for a faculty position, and often helpful for getting into a competitive position in NASA or similar institutions. That said, it's not the end of the world if you don't get a post-doc. There are still many jobs within research institutions that are open to you. One example is the Space Telescope Science Institute.
 
 If it's really important to you to get a post-doc, there are some things you can do while in graduate school to make yourself more competitive:
 
