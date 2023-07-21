@@ -123,6 +123,7 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
 - Speak to their current and former students
 - Are you comfortable talking with them? It's important that you get along with (and like) your advisor. You will need them to be writing (good) letters for you for many years even after you graduate.
 - Ask what kinds of skills their students learn that might generalize (this can be helpful for securing post-doc positions or other employment post-graduation).
+- Also know that it is ok and normal to switch advisors while in grad school. If you are in an unhelpful or toxic environment, it is better to switch to another advisor, even if the research isn't exactly what you want to do. It is unlikely that this will impact the time it takes you to complete the PhD (it might even make the time shorter!).
 
 ### Post-bacc programs
 
