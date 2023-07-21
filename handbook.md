@@ -86,17 +86,20 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
 
 #### How to choose a program
 
-- Do the grad students seem happy? If they were applying to grad school now, would they choose the same program? (email them to ask them, or find out during a campus visit)
-- How much do the grad students get paid? Can people live on that amount at that location? What’s the health insurance like? If you have medical issues, what’s the local medical situation like (will you have to travel to see specialists, etc.)?
+- Do the grad students seem happy? Do they have a healthy work-life balance? If they were applying to grad school now, would they choose the same program? (email them to ask them, or find out during a campus visit)
+- How much do the grad students get paid? Can people live on that amount at that location? (The rule of thumb is that no more than 30% of your paycheck should to housing costs; if it does then this is called being "rent-burdened" or "cost-burdened". Unfortunately, this is very common for graduate students.)
+- What’s the health insurance like? If you have medical issues, what’s the local medical situation like (will you have to travel to see specialists, etc.)?
 - If this matters to you: is this a state that doesn’t allow universities to ban guns on campus? If you’re going to be a TA, are you comfortable with that?
 - Is the project something you are excited about? Enough to do it for a few years? Will you have freedom to follow your own scientific questions? Will you work with a team or individually? 
-- Make sure that there are at least two people in the department who would be good advisors for you. Things can go wrong: you might not get along with your first choice advisor, they might not be taking students, they could move, they could die (hard to think about but it does happen), etc.
-- Also consider location (is it somewhere you will enjoy living for 5+ years?)
+- Make sure that there are at least two people in the department who would be good advisors for you. Three are better. Things can go wrong: you might not get along with your first choice advisor, they might not be taking students, they could move, they could die (hard to think about but it does happen), etc.
+- Make sure there are also multiple projects that you are interested in working on (for similar reasons).
+- Do the faculty have time for their students? If they are unavailable during visiting week, or you're unable to get time to talk to them before you have to make a decision, this is generally a bad sign. 
+- Consider location, i.e., is it somewhere you will enjoy living for 5+ years? This is more important than you may think!
 - Planetary programs vary widely, from geology-based to astronomy-based. Does the program suit your background and what you want to learn? What are the requirements? 
 - Are you required to teach? Is financial support guaranteed? If so, is it based on teaching or research? 
 - If this matters to you: are the graduate students unionized? Are the faculty unionized? How good are the health benefits?
 - How diverse is the student population? How diverse is the faculty population? Will you feel comfortable and supported? (You may have to talk to current students to find out)
-- Is the program well-known? 
+- What do the graduate students go on to do after they graduate (especially your prospective advisor's students)? Ask the faculty what their graduated students are doing now. Speak to graduates of the program. Does this align with your career goals? 
 
 ##### How to find an advisor
 
