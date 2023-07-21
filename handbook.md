@@ -116,10 +116,13 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
 - Do they have funding? Will they be able to support you as a student?
 - Ask about previous students, where have they gone, what are they doing now
 - Ask about communication style and expectations for how much time you’ll get with them, and how much time they expect you to work (work-life balance is important)
+- Do they have time for you? (See above in How to Choose a Program)
 - Do they expect you to teach? Will they allow you to teach? Do the answers to these questions fit into your career hopes/plans?
 - What is their group like? Will you be working on your own, or with others? Do you think you’d like working with those people?
 - Will you work on your own project or a subset of their work?
 - Speak to their current and former students
+- Are you comfortable talking with them? It's important that you get along with (and like) your advisor. You will need them to be writing (good) letters for you for many years even after you graduate.
+- Ask what kinds of skills their students learn that might generalize (this can be helpful for securing post-doc positions or other employment post-graduation).
 
 ### Post-bacc programs
 
