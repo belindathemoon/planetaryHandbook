@@ -13,7 +13,7 @@ View the **table of contents** by clicking on the <img src="https://thumbs.dream
 - Passion and enthusiasm
 - Good references, from people who know you (a great recommendation from a new prof who knows you well is much better than a recommendation from a famous person who barely knows you)
 - A solid Personal Statement
-- An undergraduate degree in a physical science field (maybe—[see more below](#nontraditional-students-&amp-students-changing-fields))
+- An undergraduate degree in a physical science field (maybe—[see more below](#nontraditional-students--students-changing-fields))
 - [Research experience](#getting-research-experience)
 - Conference presentation(s) (helpful but not required)
 - Leadership experience (helpful but not required)
