@@ -6,17 +6,19 @@ View the **table of contents** by clicking on the <img src="https://thumbs.dream
 
 ## For Undergraduate Students…
 
+**Update for 2025:** While most of the advice below is still relevant and useful, the current landscape of funding and the hostile position taken by the executive branch of the federal government toward federal funding agencies (and science in general), makes this an especially difficult time to enter into a field of academic research. The policies have been changing often, both for worse and for better, and funding is up in the air for many PIs (primary investigators). This makes it that much more important to reach out to potential advisors before applying so that you understand their funding situation. They may not have funding for you, but they may know someone who does. Everyone is especially reliant on their networks and right now, so don't be afraid to ask for help! This is a time where communities and mutual support is the only way forward.
+
 ### What do you need to get into grad school for Planetary Science?
 
 - Passion and enthusiasm
 - Good references, from people who know you (a great recommendation from a new prof who knows you well is much better than a recommendation from a famous person who barely knows you)
 - A solid Personal Statement
-- An undergraduate degree in a physical science field (?)
-- Research experience
+- An undergraduate degree in a physical science field (maybe—[see more below](#### Nontraditional students & students changing fields))
+- [Research experience](### Getting Research Experience)
 - Conference presentation(s) (helpful but not required)
-- A published paper (helpful but not required)
 - Leadership experience (helpful but not required)
 - Coding experience (useful for you, also helpful for getting research experience, not required)
+- A published paper (helpful but definitely not required)
 
 ### Getting Research Experience
 
@@ -83,6 +85,23 @@ If you have a favorite professor or mentor, or even a trusted peer, ask if they'
     - Include a resume or CV
     - Ask if they’re taking students, and create opportunities for following up–ask if they’re available for a Zoom or phone call in the nearish future!
   - If they don’t reply within a week-ish, send a follow-up email! Professors get a lot of emails and it’s not unlikely that yours got lost. Do NOT send more than 1 or (rarely) 2 followup emails and do NOT mention how long it’s been since you sent your first email! Emphasize that you’re very interested in working with them, and expand a bit more on the reasons why.
+
+#### Nontraditional students & students changing fields
+
+It is of course easier to follow the traditional path: from a geology or astronomy undergraduate degree at a research university straight into a PhD program. But that is only because that path is well-trod and clearly laid out. There are in fact many pathways to become a planetary scientist, and planetary scientists on the whole come from more diverse backgrounds than a lot of other natural science disciplines. One of the great things about planetary science is that it is interdisciplinary by definition (only recently have universities included it as an area of study—many senior researchers still in the field were originally cobbling together a research program from multiple departments). There are also a lot of artists in planetary science, so whatever your background is, know that your application is not going to be set aside just because of your undergraduate major.
+
+Here are a few tips for those on a nontraditional path:
+- You do need *an* undergraduate degree to apply for graduate programs, but (generally) it doesn't need to be in the same field.
+  - Check with the programs that you're interested in to understand their specific requirements. For example, at Johns Hopkins University, the only requirement is that you have an undergraduate degree, however at University of Hawaii, a degree in physics or geology (or the equivalent coursework) is required to apply for the planetary geology PhD. The department chair and/or your prospective advisor can help you find this criteria.
+  - It helps to have some coursework in geology, physics, or chemistry, but it doesn't have to be a full degree's worth. Because planetary science departments are interdisciplinary, most of the students will be coming in with a variety of backgrounds, so you won't be the only one coming in who doesn't know anything about a certain topic.
+  - Astronomy & Physics departments are generally, but not always, more strict about academic backgrounds than Earth & Planetary Science or Geology & Planetary Science departments. Often, the students come from less diverse background in the former than the latter two, so this may also be something you want to consider.
+- Research goes a long way for making up for a lack of coursework. Even one good research experience, like a full-time summer internship, can be enough to put you ahead of other applicants that got straight-A's in a Physics undergraduate degree but didn't do much research.
+- Your personal statement will be a big part of your application—make sure to lean in to why your nontraditional path makes you more, rather than less, prepared to go into a PhD program. For example:
+  - You have had more life experience and you know this is what you want and why you're doing it.
+  - You have transferable skills from your work or non-science experience that will benefit you in your academic career (e.g., time management skills, people skills, writing skills, ability to give and receive feedback/critique).
+  - You have a clear career plan.
+- When you reach out to potential advisors, include a sentence or two saying that you are a nontraditional student and describing your background, in addition to including your relevant research experience and what coursework/related degree you have done. If they are not interested in working with you because of your background, they would not be a good advisor anyway!
+- Ask for advice and guidance from current grad students who are both from a traditional and nontraditional background. Try to glean what common experiences they might all have that helped to get them into their program. 
 
 #### How to choose a program
 
