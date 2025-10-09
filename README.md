@@ -6,7 +6,7 @@ This is an open-source, crowdsourced document (not software, but perhaps even mo
 
 #### How-to
 - If you're just here to learn, feel free to jump straight over to the [handbook itself](handbook.md).
-- If you're considering being a contributor, check out our [contribution guidelines](CONTRIBUTING.md), and our [Code of Conduct](CODE_OF_CONDUCT.md)
+- If you're considering being a contributor, check out our [contribution guidelines](CONTRIBUTING.md) (which includes instructions), and our [Code of Conduct](CODE_OF_CONDUCT.md)
 - If you'd like to cite or re-use parts of this handbook, please review the [license](LICENSE).
 
 ### About the authors
