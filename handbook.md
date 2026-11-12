@@ -1,12 +1,16 @@
-# The Handbook for Becoming a Planetary Scientist
+# How to Become a Planetary Scientist
 
-*A Crowdsourced Resource for Students and Early Career Scientists*
+*A Crowdsourced Handbook for Students and Early Career Scientists*
 
 View the **table of contents** by clicking on the <img src="https://thumbs.dreamstime.com/b/bullet-list-icon-filled-bullet-list-icon-website-design-mobile-app-development-bullet-list-icon-filled-text-editor-155360254.jpg" alt="icon with three bulleted lines" height="24" width="auto"/> icon on the left of the filename above.
 
 ## For Undergraduate Students…
 
 **Update for 2025:** While most of the advice below is still relevant and useful, the current landscape of funding and the hostile position taken by the executive branch of the federal government toward federal funding agencies (and science in general), makes this an especially difficult time to enter into a field of academic research. The policies have been changing often, both for worse and for better, and funding is up in the air for many PIs (primary investigators). This makes it that much more important to reach out to potential advisors before applying so that you understand their funding situation. They may not have funding for you, but they may know someone who does. Everyone is especially reliant on their networks and right now, so don't be afraid to ask for help! This is a time where communities and mutual support is the only way forward.
+
+**MS/PHD POSITIONS FOR FALL 2026** 
+
+Dr. Sarah H&ouml;rst is compiling a list of faculty who are actively looking for PhD and MS students to start in the fall of 2026. Take a look at the list here: (https://tinyurl.com/7hy3e4dv)[https://tinyurl.com/7hy3e4dv]. The list includes information about the department, advisor websites, and what type of research they plan to fund. If any interest you, reach out! Also, if the person you want to work with isn't on this list, it doesn't mean they won't be interested. See the sections below on (cold calling)[#cold-calling] and (applying to grad school)[#applying-to-graduate-schools].
 
 ### What do you need to get into grad school for Planetary Science?
 
