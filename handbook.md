@@ -10,7 +10,7 @@ View the **table of contents** by clicking on the <img src="https://thumbs.dream
 
 **MS/PHD POSITIONS FOR FALL 2027** 
 
-Dr. Sarah H&ouml;rst is compiling a list of faculty who are actively looking for PhD and MS students to start in the fall of 2027. Take a look at the list here: (https://tinyurl.com/7hy3e4dv)[https://tinyurl.com/7hy3e4dv]. The list includes information about the department, advisor websites, and what type of research they plan to fund. If any interest you, reach out! Also, if the person you want to work with isn't on this list, it doesn't mean they won't be interested. See the sections below on (cold calling)[#cold-calling] and (applying to grad school)[#applying-to-graduate-schools].
+Dr. Sarah H&ouml;rst is compiling a list of faculty who are actively looking for PhD and MS students to start in the fall of 2027. Take a look at the list here: https://tinyurl.com/7hy3e4dv. The list includes information about the department, advisor websites, and what type of research they plan to fund. If any interest you, reach out! Also, if the person you want to work with isn't on this list, it doesn't mean they won't be interested. See the sections below on [cold calling](#cold-calling) and [applying to grad school](#applying-to-graduate-schools).
 
 ### What do you need to get into grad school for Planetary Science?
 
